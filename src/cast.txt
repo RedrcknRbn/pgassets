@@ -1,0 +1,402 @@
+3rd Biannual Pulus Games
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/e780ff7b87a58cfbc720d97282c2cb7c498cafc9/logos/3/PulusGames3RS.png
+
+
+District 1 (Server Pets)
+#FFFFFF 0 0
+
+Jeremy the Snake
+Jeremy
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/jeremyrs.png
+BW
+
+Food the Cat
+Food
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/food.png
+BW
+
+
+District 2 (Video Obsessions)
+#FFFFFF 0 0
+
+The Prophet
+Prophetbot
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/prophetbot.png
+BW
+
+Mothman
+Mothman
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/glorkfinger.png
+BW
+
+
+District 3
+#FFFFFF 0 0
+
+Meri
+Meri
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/candi.png
+BW
+
+Terralotl
+Terra
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/terra.png
+BW
+
+
+District 4 (Not Beating the Allegations)
+#FFFFFF 0 0
+
+Palck
+Palck
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/palck.png
+BW
+
+RedrcknRbn
+Red
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/red.png
+BW
+
+
+District 5
+#FFFFFF 0 0
+
+Homophobic Steve Cobs Inanimate Insanity
+GenAI
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/chud.png
+BW
+
+MagicNumber
+Magic
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/magic.png
+BW
+
+
+District 6 (Industry Plants)
+#FFFFFF 0 0
+
+Grails the Gox
+Grails
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/grails.png
+BW
+
+Carl-Bot
+Carl-Bot
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/carlbot.png
+BW
+
+
+District 7
+#FFFFFF 0 0
+
+de Foliking
+Foliking
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/foliking.png
+BW
+
+Videoconsole
+Video
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/video.png
+BW
+
+
+District 8 (Race to Ring 9)
+#FFFFFF 0 0
+
+Kr0pla
+Kropla
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/kropla.png
+BW
+
+Scout
+Scout
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/911.png
+BW
+
+
+District 9
+#FFFFFF 0 0
+
+Kit
+Kit
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/kit.png
+BW
+
+Helios
+Helios
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/helios.png
+BW
+
+
+District 10
+#FFFFFF 0 0
+
+Poketwo
+Poketwo
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/poketwo.png
+BW
+
+Xp0swl
+XP
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/xp.png
+BW
+
+
+District 11 (TPesta)
+#FFFFFF 0 0
+
+Thomas Echnical GD
+Technical
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/technical.png
+BW
+
+Nathan Pesta GD
+Npesta
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/npesta.png
+BW
+
+
+District 12 (horror)
+#FFFFFF 0 0
+
+Sebastian Solace
+Sebastian
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/sebastian.png
+BW
+
+Freddy Fazbear
+Freddy
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/freddy.png
+BW
+
+
+District 13 (Goated Game)
+#FFFFFF 0 0
+
+THE WORLD MACHINE
+World Machine
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/worldmachine.png
+BW
+
+Niko Oneshot
+Niko
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/niko.png
+BW
+
+
+District 14 (Criminality)
+#FFFFFF 0 0
+
+ModernProblems
+Modern
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/modern.png
+BW
+
+Shmarles Shmarlaton
+Shmarley
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/shmarley.png
+BW
+
+
+District 15
+#FFFFFF 0 0
+
+Thi1k
+Think
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/think.png
+BW
+
+Omega
+Omega
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/omega.png
+BW
+
+
+District 16 (Texans)
+#FFFFFF 0 0
+
+Sarfog
+Sarfog
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/sarfog.png
+BW
+
+Stitches
+Stitches
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/stitches.png
+BW
+
+
+District 17
+#FFFFFF 0 0
+
+qi9r
+qi9r
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/qi9r.png
+BW
+
+Mewsans
+Mewsans
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/mewsans.png
+BW
+
+
+District 18 (THERES TWO OF THEM?)
+#FFFFFF 0 0
+
+Evil Fun Let's Party Infinite Facts
+Evil Fun LPI Facts
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/evilflpif.png
+BW
+
+Fun Let's Party Infinite Facts
+Fun LPI Facts
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/flpif.png
+BW
+
+
+District 19 (The Sharkyleo Docs)
+#FFFFFF 0 0
+
+StupidityDX
+Stu
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/stu.png
+BW
+
+Chris Hansen
+Chris Hansen
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/chrishansen.png
+BW
+
+
+District 20 (Favored to Lose)
+#FFFFFF 0 0
+
+Sparky GD
+Sparky
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/sparky.png
+BW
+
+Tower of Extreme Hell
+ToEH
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/toeh.png
+BW
+
+
+District 21 (Voicechangers)
+#FFFFFF 0 0
+
+Hugemungus
+Mungus
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/mungus.png
+BW
+
+TTS Bot
+TTS Bot
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/tts.png
+BW
+
+
+District 22 (HOLY SHIT)
+#FFFFFF 0 0
+
+THE ROARING KNIGHT
+Rory Knight
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/roaringknight.png
+BW
+
+Ralsei the Fluffy Prince
+Ralsei
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/ralsei.png
+BW
+
+
+District 23
+#FFFFFF 0 0
+
+ForgottenFauna
+Fauna
+0
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/fauna.png
+BW
+
+Ash
+Ash
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/ash.png
+BW
+
+
+District 24
+#FFFFFF 0 0
+
+Adam Sandler
+Adam Sandler
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/adamsandler.png
+BW
+
+Douglas Squiggly
+Douglas
+1
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/douglas.png
+BW
+
+
+District 25
+#FFFFFF 0 0
+
+OSCDex
+OSCDex
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/oscdex.png
+BW
+
+SONIC.exe
+Sonic.EXE
+4
+https://raw.githubusercontent.com/RedrcknRbn/pgassets/refs/heads/main/pfps/sonicexe.png
+BW

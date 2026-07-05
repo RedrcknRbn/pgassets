@@ -1,0 +1,50 @@
+The Reaping
+Title: The Reaping
+Alive: Alive
+Deceased: Deceased
+Alive Color: #74F424
+Deceased Color: #FF6666
+
+The Bloodbath
+Title: The Bloodbath
+Description: As the Pulus members stand on their podiums, the horn sounds.
+Default Text: (runs/runs/runs/runs/run1) away from the Cornucopia.
+Tribute Color: #FB8200
+
+Day
+Title: Day
+
+Fallen Tributes
+Title: Fallen Members
+Description Singular: cannon shot can be heard in the distance.
+Description Plural: cannon shots can be heard in the distance.
+
+Status
+Title: Status
+Kill Singular: Kill
+Kills Plural: Kills
+
+Night
+Title: Night
+
+The Feast
+Title: The Feast
+Description: The cornucopia is replenished with food, supplies, weapons, and memoirs from the members' families.
+Default Text: (decides/decides/decides/decides/decide1) not to go to The Feast.
+
+Arena Event
+Title: Arena Event
+
+The Winner
+Title: The Winner
+Text: The (winner is/winner is/winner is/winner is/winners are1)
+
+The Placements
+Title: Placements
+
+Summary
+Title: Summary
+
+Statistics
+Title: Statistics
+District: District
